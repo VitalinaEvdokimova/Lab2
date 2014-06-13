@@ -1,0 +1,7 @@
+D:\Dropbox\Фриланс\Проекты\2014\C#\Вита\vs10\zadanie\zadanie\bin\Debug\zadanie.exe
+D:\Dropbox\Фриланс\Проекты\2014\C#\Вита\vs10\zadanie\zadanie\bin\Debug\zadanie.pdb
+D:\Dropbox\Фриланс\Проекты\2014\C#\Вита\vs10\zadanie\zadanie\obj\x86\Debug\zadanie.exe
+D:\Dropbox\Фриланс\Проекты\2014\C#\Вита\vs10\zadanie\zadanie\obj\x86\Debug\zadanie.pdb
+D:\Dropbox\Фриланс\Проекты\2014\C#\Вита\vs10\zadanie\zadanie\obj\x86\Debug\zadanie.csprojResolveAssemblyReference.cache
+C:\Users\Vita\Desktop\zadanie\zadanie\obj\x86\Debug\zadanie.exe
+C:\Users\Vita\Desktop\zadanie\zadanie\obj\x86\Debug\zadanie.pdb
